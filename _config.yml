@@ -23,7 +23,7 @@ email: supportmengzhu@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The exploitation of delivery workers is a global phenomenon. This is why delivery
   workers need to build global unity and support each other's struggles.
-# baseurl: "/supportmengzhu" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://deliveryworkers.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FGuojiang
 
