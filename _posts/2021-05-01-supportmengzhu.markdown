@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "International Solidarity Statement Supporting Chinese Delivery Worker Organizer Mengzhu"
+title: "Support Chinese Delivery Worker Organizer Mengzhu"
 date: 2021-05-01 00:00:00 +0000
 categories: mengzhu
 ---
