@@ -8,14 +8,14 @@ categories: mengzhu solidarity
 ![unidos-global](/assets/unidos-global.png)
 
 # Argentina
-![argentina1](/assets/argentina1.png)
-![argentina2](/assets/argentina2.png)
-![argentina3](/assets/argentina3.png)
+![argentina1](/assets/unidos-argentina1.png)
+![argentina2](/assets/unidos-argentina2.png)
+![argentina3](/assets/unidos-argentina3.png)
 
 # Brazil
-![brazil1](/assets/brazil1.png)
-![brazil2](/assets/brazil2.png)
-![brazil3](/assets/brazil3.png)
+![brazil1](/assets/unidos-brazil1.png)
+![brazil2](/assets/unidos-brazil2.png)
+![brazil3](/assets/unidos-brazil3.png)
 
 # Mexico
-![mexico](/assets/mexico.png)
+![mexico](/assets/unidos-mexico.png)
