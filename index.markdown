@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+image: /assets/fmz_im.jpeg
 ---
 ![My helpful screenshot](/assets/fmz_im.jpeg)
 
