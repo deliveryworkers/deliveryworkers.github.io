@@ -25,3 +25,6 @@ We call on all delivery workers around the world to join the efforts, include so
  - Delivery workers at companies such as Ele.me, Meituan, Deliveroo, UberEats, DoorDash, Grubhub, Instacart, Delivery Hero, Foodpanda, and iFood who demand their recognition as formal employees must get a labor contract with a guaranteed living wage and social insurance!  
  - The state and the companies must be taught to respect when delivery workers organize independently and fight against exploitation and for the improvement of their working conditions!
  
+__An injury to one is an injury to all!__
+
+https://deliveryworkers.github.io, May 1, 2021
