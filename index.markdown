@@ -7,9 +7,9 @@ image: /assets/fmz_im.jpeg
 ---
 ![My helpful screenshot](/assets/fmz_im.jpeg)
 
-On February 25, 2021, a former food delivery worker and labor organizer who goes by the name of “Mengzhu” was detained by the Beijing police for organizing his fellow delivery workers. Mengzhu’s real name is Chen Guojiang, and had recently worked as a delivery worker before setting up mutual aid networks to support delivery workers. He was charged with “picking quarrels and provoking trouble”, a standard bogus charge regularly levelled against activists, on April 2, 2021, while two of his fellow delivery workers Ma Rong and Yu Ziyang remained detained. This is followed by Chinese government’s crackdown on the delivery workers’ mutual aid networks, as well as harassment of Mengzhu’s supporters engaged in the solidarity campaign. Any public discussion of Mengzhu’s detention within China has been censored, making it challenging to raise broader awareness within the country. This is why international solidarity is all the more important in keeping the limelight on the arrests as well as the conditions and organizing of Chinese delivery workers. 
+This is a call to delivery workers, couriers, logistics workers, and all who want to support the struggle of workers in the delivery and logistics sector—in China and elsewhere: On February 25, 2021, a former delivery worker Mengzhu was detained. Mengzhu’s real name is Chen Guojiang. On April 2, 2021, Chinese authorities charged him with “picking quarrels and provoking trouble,” a bogus charge regularly leveled against activists in China. Facing wage arrears, wage cuts, and fines, Mengzhu set up mutual aid networks to support his fellow workers, and he spoke out publicly against the exploitation of delivery workers. For years, delivery workers and couriers have staged strikes and other forms of labor resistance in China. On a global scale, delivery workers in many parts of the world also face similar problems, and have organized and staged struggles. We call on all delivery workers around the world to join the efforts, include solidarity with Mengzhu in their daily actions and struggles, and support our demands. 
 
-Read the rest of the statement [here](/mengzhu/2021/05/01/supportmengzhu.html).
+Read the demands and the rest of the statement [here](/mengzhu/2021/05/01/supportmengzhu.html).
 
 
 
