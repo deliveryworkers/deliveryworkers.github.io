@@ -27,4 +27,5 @@ We call on all delivery workers around the world to join the efforts, include so
  
 __An injury to one is an injury to all!__
 
-<https://deliveryworkers.github.io>, May 1, 2021
+[https://deliveryworkers.github.io](https://deliveryworkers.github.io), May 1, 2021
+
