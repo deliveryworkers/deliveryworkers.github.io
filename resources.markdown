@@ -26,13 +26,32 @@ April 3, 2021, Chinaworker.info: [China: Release delivery workers’ spokesperso
 
 November 12, 2020, Chuang: [Delivery Workers, Trapped in the System](https://chuangcn.org/2020/11/delivery-renwu-translation/)
 
+
 ## 中文 Chinese ##
 
 April 7, 2021: China Labour Bulletin: [【持续更新】组织互助平台表达骑手不满 外卖骑手盟主被捕](https://clb.org.hk/zh-hans/content/【持续更新】组织互助平台表达骑手不满-外卖骑手盟主被捕)
 
+
 ## 한국어 Korean ##
 
+April 15, 2021, podbbang.com podcast: [동아시아 데모 이야기 - 중국 배달 라이더 ‘천궈장’](http://www.podbbang.com/ch/8005?e=24015756&fbclid=IwAR2ub3rhLdSE2Q-xhcGQSJ2rwgHWwE-_UWwa_vU2h4K5g6B5T7el6X-C3I8)
+
 December 22, 2020, Platformc: [중국의 800만 배달 노동자들이 직면한 착취의 늪](http://platformc.kr/2020/12/delivery-workers-exploitation-in-china/)
+
+
+## Français ##
+
+April 11, 2021, Le Monde Libertaire: [Répression en Chine contre un livreur de nourriture militant](https://monde-libertaire.fr/?article=Repression_en_chine_contre_un_livreur_de_nourriture_militant)
+
+April 17, 2021, Réseau Syndical International de Solidarité et de Luttes: [Chine : Le leader de l’Alliance des livreurs est arrêté, le mouvement de solidarité est réprimé](https://www.laboursolidarity.org/Chine-Le-leader-de-l-Alliance-des?lang=fr)
+
+April 19, 2021, Syndiccollectif: [Chine : un livreur arrêté pour création d'«alliance»](https://syndicollectif.fr/chine-un-livreur-a-velo-arrete/)
+
+
+## Italiano ##
+
+May 6, 2021, Il Manifesto: [I rider cinesi si mobilitano dopo l’arresto del «leader»](https://ilmanifesto.it/i-rider-cinesi-si-mobilitano-dopo-larresto-del-leader/)
+
 
 ## Português ##
 
