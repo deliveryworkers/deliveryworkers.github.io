@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-[中文](#chinese) – [Deutsch][#german] – [English](#english) – [Français](#french) – [Italiano](#italian) – [한국어](#korean) – [Português](#portugues)
+[中文](#chinese) – [Deutsch][#german] – [English](#english) – [Français](#french) – [Italiano](#italian) – [한국어](#korean) – [Português](#portuguese)
 
 ## English ## {#english}
 
@@ -62,7 +62,7 @@ April 19, 2021, Syndiccollectif: [Chine : un livreur arrêté pour création d'�
 May 6, 2021, Il Manifesto: [I rider cinesi si mobilitano dopo l’arresto del «leader»](https://ilmanifesto.it/i-rider-cinesi-si-mobilitano-dopo-larresto-del-leader/)
 
 
-## Português ## {#portugues}
+## Português ## {#portuguese}
 
 April 7, 2021, Passa Palavra: [Solidariedade a Mengzhu](https://passapalavra.info/2021/04/137418/)
 
