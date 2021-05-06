@@ -39,6 +39,13 @@ April 15, 2021, podbbang.com podcast: [동아시아 데모 이야기 - 중국 �
 December 22, 2020, Platformc: [중국의 800만 배달 노동자들이 직면한 착취의 늪](http://platformc.kr/2020/12/delivery-workers-exploitation-in-china/)
 
 
+## Deutsch ##
+
+May 5, 2021, Labournet.de: [Repression gegen Selbstorganisierung von Arbeitern: Ein Rider wird in China festgenommen](https://www.labournet.de/?p=188029)
+
+April 18, 2021, Forum Arbeitswelten: [Solidarität mit Mengzhu!](https://www.forumarbeitswelten.de/blog/solidaritat-mit-mengzhu-kampagne/)
+
+
 ## Français ##
 
 April 11, 2021, Le Monde Libertaire: [Répression en Chine contre un livreur de nourriture militant](https://monde-libertaire.fr/?article=Repression_en_chine_contre_un_livreur_de_nourriture_militant)
