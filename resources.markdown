@@ -51,11 +51,11 @@ April 18, 2021, *Forum Arbeitswelten*: [Solidarität mit Mengzhu!](https://www.f
 
 ## Français ## {#french}
 
-April 11, 2021, *Le Monde Libertaire*: [Répression en Chine contre un livreur de nourriture militant](https://monde-libertaire.fr/?article=Repression_en_chine_contre_un_livreur_de_nourriture_militant)
+April 19, 2021, *Syndiccollectif*: [Chine : un livreur arrêté pour création d'«alliance»](https://syndicollectif.fr/chine-un-livreur-a-velo-arrete/)
 
 April 17, 2021, *Réseau Syndical International de Solidarité et de Luttes*: [Chine : Le leader de l’Alliance des livreurs est arrêté, le mouvement de solidarité est réprimé](https://www.laboursolidarity.org/Chine-Le-leader-de-l-Alliance-des?lang=fr)
 
-April 19, 2021, *Syndiccollectif*: [Chine : un livreur arrêté pour création d'«alliance»](https://syndicollectif.fr/chine-un-livreur-a-velo-arrete/)
+April 11, 2021, *Le Monde Libertaire*: [Répression en Chine contre un livreur de nourriture militant](https://monde-libertaire.fr/?article=Repression_en_chine_contre_un_livreur_de_nourriture_militant)
 
 
 ## Italiano ## {#italian}
