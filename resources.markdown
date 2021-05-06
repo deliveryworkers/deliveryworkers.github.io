@@ -58,7 +58,7 @@ April 17, 2021, Réseau Syndical International de Solidarité et de Luttes: [Chi
 April 19, 2021, Syndiccollectif: [Chine : un livreur arrêté pour création d'«alliance»](https://syndicollectif.fr/chine-un-livreur-a-velo-arrete/)
 
 
-## Italiano ## (#italian}
+## Italiano ## {#italian}
 
 May 6, 2021, Il Manifesto: [I rider cinesi si mobilitano dopo l’arresto del «leader»](https://ilmanifesto.it/i-rider-cinesi-si-mobilitano-dopo-larresto-del-leader/)
 
