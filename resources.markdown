@@ -4,6 +4,8 @@ title: Resources
 permalink: /resources/
 ---
 
+[Português](#portugues)
+
 ## English ##
 
 May 1, 2021, Global Voices: [China pledges to improve conditions of delivery workers. Arrest of a labor activist suggests otherwise](https://globalvoices.org/2021/05/01/china-pledges-to-improve-conditions-of-delivery-workers-arrest-of-a-labor-activist-suggest-otherwise/)
@@ -60,7 +62,7 @@ April 19, 2021, Syndiccollectif: [Chine : un livreur arrêté pour création d'�
 May 6, 2021, Il Manifesto: [I rider cinesi si mobilitano dopo l’arresto del «leader»](https://ilmanifesto.it/i-rider-cinesi-si-mobilitano-dopo-larresto-del-leader/)
 
 
-## Português ##
+## Português ## {#portugues}
 
 April 7, 2021, Passa Palavra: [Solidariedade a Mengzhu](https://passapalavra.info/2021/04/137418/)
 
