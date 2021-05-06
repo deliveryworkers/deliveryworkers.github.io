@@ -6,6 +6,7 @@ permalink: /resources/
 
 [中文](#chinese) – [Deutsch](#german) – [English](#english) – [Français](#french) – [Italiano](#italian) – [한국어](#korean) – [Português](#portuguese)
 
+
 ## English ## {#english}
 
 May 1, 2021, Global Voices: [China pledges to improve conditions of delivery workers. Arrest of a labor activist suggests otherwise](https://globalvoices.org/2021/05/01/china-pledges-to-improve-conditions-of-delivery-workers-arrest-of-a-labor-activist-suggest-otherwise/)
