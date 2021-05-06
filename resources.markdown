@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-[中文](#chinese) – [Deutsch][#german] – [English](#english) – [Français](#french) – [Italiano](#italian) – [한국어](#korean) – [Português](#portuguese)
+[中文](#chinese) – [Deutsch](#german) – [English](#english) – [Français](#french) – [Italiano](#italian) – [한국어](#korean) – [Português](#portuguese)
 
 ## English ## {#english}
 
