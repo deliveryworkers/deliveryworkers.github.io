@@ -4,9 +4,9 @@ title: Resources
 permalink: /resources/
 ---
 
-[Português](#portugues)
+[中文](#chinese) – [Deutsch][#german] – [English](#english) – [Français](#french) – [Italiano](#italian) – [한국어](#korean) – [Português](#portugues)
 
-## English ##
+## English ## {#english}
 
 May 1, 2021, Global Voices: [China pledges to improve conditions of delivery workers. Arrest of a labor activist suggests otherwise](https://globalvoices.org/2021/05/01/china-pledges-to-improve-conditions-of-delivery-workers-arrest-of-a-labor-activist-suggest-otherwise/)
 
@@ -29,26 +29,26 @@ April 3, 2021, Chinaworker.info: [China: Release delivery workers’ spokesperso
 November 12, 2020, Chuang: [Delivery Workers, Trapped in the System](https://chuangcn.org/2020/11/delivery-renwu-translation/)
 
 
-## 中文 Chinese ##
+## 中文 Chinese ## {#chinese}
 
 April 7, 2021: China Labour Bulletin: [【持续更新】组织互助平台表达骑手不满 外卖骑手盟主被捕](https://clb.org.hk/zh-hans/content/【持续更新】组织互助平台表达骑手不满-外卖骑手盟主被捕)
 
 
-## 한국어 Korean ##
+## 한국어 Korean ## {#korean}
 
 April 15, 2021, podbbang.com podcast: [동아시아 데모 이야기 - 중국 배달 라이더 ‘천궈장’](http://www.podbbang.com/ch/8005?e=24015756&fbclid=IwAR2ub3rhLdSE2Q-xhcGQSJ2rwgHWwE-_UWwa_vU2h4K5g6B5T7el6X-C3I8)
 
 December 22, 2020, Platformc: [중국의 800만 배달 노동자들이 직면한 착취의 늪](http://platformc.kr/2020/12/delivery-workers-exploitation-in-china/)
 
 
-## Deutsch ##
+## Deutsch ## {#german}
 
 May 5, 2021, Labournet.de: [Repression gegen Selbstorganisierung von Arbeitern: Ein Rider wird in China festgenommen](https://www.labournet.de/?p=188029)
 
 April 18, 2021, Forum Arbeitswelten: [Solidarität mit Mengzhu!](https://www.forumarbeitswelten.de/blog/solidaritat-mit-mengzhu-kampagne/)
 
 
-## Français ##
+## Français ## {#french}
 
 April 11, 2021, Le Monde Libertaire: [Répression en Chine contre un livreur de nourriture militant](https://monde-libertaire.fr/?article=Repression_en_chine_contre_un_livreur_de_nourriture_militant)
 
@@ -57,7 +57,7 @@ April 17, 2021, Réseau Syndical International de Solidarité et de Luttes: [Chi
 April 19, 2021, Syndiccollectif: [Chine : un livreur arrêté pour création d'«alliance»](https://syndicollectif.fr/chine-un-livreur-a-velo-arrete/)
 
 
-## Italiano ##
+## Italiano ## [#italian}
 
 May 6, 2021, Il Manifesto: [I rider cinesi si mobilitano dopo l’arresto del «leader»](https://ilmanifesto.it/i-rider-cinesi-si-mobilitano-dopo-larresto-del-leader/)
 
