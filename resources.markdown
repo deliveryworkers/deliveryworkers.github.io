@@ -16,4 +16,4 @@ April 15, 2021, Rest of World: [‘I want my blood-and-sweat money’: How China
 
 April 3, 2021, Chinaworker.info: [China: Release delivery workers’ spokesperson Chen Guojiang](https://chinaworker.info/en/2021/04/03/28336/)
 
-November 12, 2021, Chuang: [Delivery Workers, Trapped in the System](https://chuangcn.org/2020/11/delivery-renwu-translation/)
+November 12, 2020, Chuang: [Delivery Workers, Trapped in the System](https://chuangcn.org/2020/11/delivery-renwu-translation/)
