@@ -15,7 +15,7 @@ May 1, 2021, *South China Morning Post*: [The detained delivery worker exposing 
 
 April 27, 2021, *China Digital Times*: [China responds to labor activist's demands with repression, arrests](https://chinadigitaltimes.net/2021/04/china-responds-to-labor-activists-demands-with-repression-arrests/)
 
-April 25, 2021, *The Arts of Travel* podcast: [Eli Friedman: Free Mengzhu(盟主)! On Labor Organizing in China's Gig Economy](https://anchor.fm/the-arts-of-travel/episodes/Eli-Friedman-Free-Mengzhu--On-Labor-Organizing-in-Chinas-Gig-Economy-ev524v)
+April 25, 2021, *The Arts of Travel* podcast: [Eli Friedman: Free Mengzhu (盟主)! On Labor Organizing in China's Gig Economy](https://anchor.fm/the-arts-of-travel/episodes/Eli-Friedman-Free-Mengzhu--On-Labor-Organizing-in-Chinas-Gig-Economy-ev524v)
 
 April 15, 2021: *Labornotes*: [China: Leader of Delivery Riders Alliance Detained, Solidarity Movement Repressed](https://labornotes.org/2021/04/china-leader-delivery-riders-alliance-detained-solidarity-movement-repressed)
   
