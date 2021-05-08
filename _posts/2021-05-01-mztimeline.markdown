@@ -2,7 +2,7 @@
 layout: post
 title: "盟主被抓事件时间线"
 date: 2021-05-01 00:00:00 +0000
-categories: mengzhu
+categories: chinese
 ---
 ![mz-timeline](/assets/mz-timeline.png)
 

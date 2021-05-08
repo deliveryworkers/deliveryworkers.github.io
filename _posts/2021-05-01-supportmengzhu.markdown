@@ -2,7 +2,7 @@
 layout: post
 title: "Support Chinese Delivery Worker Organizer Mengzhu"
 date: 2021-05-01 00:00:00 +0000
-categories: mengzhu
+categories: english
 ---
 
 This is a call to delivery workers, couriers, logistics workers, and all who want to support the struggle of workers in the delivery and logistics sector—in China and elsewhere:

@@ -2,7 +2,7 @@
 layout: post
 title: "Timeline of Mengzhu's detainment"
 date: 2021-05-01 00:00:00 +0000
-categories: mengzhu
+categories: english
 ---
 
 On __April 2, 2021__, the family of Mengzhu signed the receipt of arrest notice. Mengzhu has been officially arrested.  

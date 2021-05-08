@@ -1,0 +1,30 @@
+---
+layout: default
+permalink: /categories/
+title: Languages
+---
+
+<div id="archives">
+{% for category in site.categories %}
+  <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}"></div>
+    <p></p>
+
+    <h1 class="category-head"><u>{{ category_name | capitalize }}</u></h1>
+    <a name="{{ category_name | slugize }}"></a>
+
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {% for post in site.categories[category_name] %}
+    <li>
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+    </li>
+    {% endfor %}
+  </div>
+{% endfor %}
+</div>

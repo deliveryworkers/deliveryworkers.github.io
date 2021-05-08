@@ -2,7 +2,7 @@
 layout: post
 title: "A brief biography of Mengzhu, Chen Guojiang"
 date: 2021-05-01 00:00:00 +0000
-categories: mengzhu
+categories: english 
 ---
 
 In __1990__, Chen Guojiang was born in rural Guizhou. 

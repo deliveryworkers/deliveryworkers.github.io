@@ -2,7 +2,6 @@
 layout: post
 title: "International Solidarity from Unidos"
 date: 2021-04-28 00:00:00 +0000
-categories: mengzhu solidarity
 ---
 
 ![unidos-global](/assets/unidos-global.png)
