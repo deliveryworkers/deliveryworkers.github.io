@@ -5,4 +5,4 @@ date: 2021-04-15 00:00:00 +0000
 categories: 한국어
 ---
 
-April 15, 2021, *podbbang.com* podcast: [동아시아 데모 이야기 - 중국 배달 라이더 ‘천궈장’](http://www.podbbang.com/ch/8005?e=24015756&fbclid=IwAR2ub3rhLdSE2Q-xhcGQSJ2rwgHWwE-_UWwa_vU2h4K5g6B5T7el6X-C3I8)
+*podbbang.com* podcast: [동아시아 데모 이야기 - 중국 배달 라이더 ‘천궈장’](http://www.podbbang.com/ch/8005?e=24015756&fbclid=IwAR2ub3rhLdSE2Q-xhcGQSJ2rwgHWwE-_UWwa_vU2h4K5g6B5T7el6X-C3I8)
