@@ -2,6 +2,7 @@
 layout: post
 title: "International Solidarity from Unidos"
 date: 2021-04-28 00:00:00 +0000
+categories: español
 ---
 
 ![unidos-global](/assets/unidos-global.png)
