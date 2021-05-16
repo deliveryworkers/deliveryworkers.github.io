@@ -6,3 +6,5 @@ categories: english
 ---
 
 My new post 2
+
+![label](/assets/orientalism.png)
