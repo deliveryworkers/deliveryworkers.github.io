@@ -40,6 +40,3 @@ On __Feb. 21 2021__,  Mengzhu posted on his Weibo page saying that, after the fi
 From __Feb. 18 till Feb. 19 2021__, Mengzhu posted a clip on different platforms, criticizing Eleme’s Spring Festival Reward Program as unreasonable and allegedly fooling the delivery workers to stay on duty. The related topics went viral online. On the afternoon of Feb.19, Eleme openly apologized for its mistake.    
 
 On __Feb 17, 2021__, a food delivery worker questioned and criticized the Spring Festival Reward Program launched by Eleme, one of the “big two” food delivery platforms. The reward program was launched to encourage delivery workers to stay on duty during the Spring Festival, but consisted of tricky, convoluted and unreasonable rules. 
-
-## test heading
-This is a __test__.
